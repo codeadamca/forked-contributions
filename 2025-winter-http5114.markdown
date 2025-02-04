@@ -1,8 +1,8 @@
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-## Workshops in Web Development 1 - HTTP5114 - Fall 2023
+## Workshops in Web Development 1 - HTTP5114 - Winter 2025
 
-Change added by original!
+Change added by Camoy Phillips!
 
 This is my change.
 
@@ -10,8 +10,9 @@ More changes from cloning.
 
 ### Students
 
-|                                                    | Name                   | Profile                                             |
-| -------------------------------------------------- | ---------------------- | --------------------------------------------------- |
+|                                                    | Camoy Phillips | ![Camoy Phillips](images/camoyphillips.jpg)Profile                                             |
+| 
+-------------------------------------------------- | ---------------------- | --------------------------------------------------- |
 
 
 ### Faculty
